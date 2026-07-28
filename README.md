@@ -11,11 +11,17 @@
 
 ## 📽️ System Demo Video
 
-https://user-images.githubusercontent.com/DEMO_VIDEO.mp4
+<video src="DEMO_VIDEO.mp4" controls="controls" style="max-width: 100%; border-radius: 10px; border: 1px solid #00ff66;"></video>
 
-> 💡 **Watch `DEMO_VIDEO.mp4`** — *Demonstrates real-time endpoint activity tracking, Web WhatsApp alert triggers, and live 20 FPS remote desktop control.*
+> 💡 **System Walkthrough**: *Demonstrates real-time endpoint activity tracking, Web WhatsApp alert triggers, and live 20 FPS remote desktop control.*
 
-[📹 Download / Play Local DEMO_VIDEO.mp4](DEMO_VIDEO.mp4)
+---
+
+> 📌 **GitHub Free Video Hosting Tip**:
+> To stream this video directly on GitHub without committing the 79MB file to repository history:
+> 1. Open any GitHub Issue / PR comment box on your repo.
+> 2. Drag & drop `DEMO_VIDEO.mp4` into the text box (do **not** click submit).
+> 3. Copy the generated `https://user-images.githubusercontent.com/...` URL and paste it into the `src=""` attribute of the video tag above!
 
 ---
 
