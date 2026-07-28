@@ -1,0 +1,13 @@
+COMPANY MONITORING POLICY (sample text -- replace with your real policy)
+
+This computer is monitored by the IT department as follows:
+- A screenshot is captured every 10 seconds while the agent is running.
+- Active/idle status is tracked based on keyboard and mouse activity.
+- IT staff may start a remote screen-viewing or remote-control session
+  for support purposes. You will always see a visible indicator in the
+  system tray when a remote session is active.
+- Every time an IT staff member or manager views your screenshots or
+  starts a remote session, that access is logged and auditable.
+
+Monitoring data is used only for the purposes described above. Contact
+IT via the tray icon menu with any questions.

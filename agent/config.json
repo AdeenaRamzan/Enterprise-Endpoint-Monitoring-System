@@ -1,0 +1,11 @@
+{
+  "backend_url": "http://192.168.100.14:8000",
+  "employee_id": "",
+  "screenshot_interval_seconds": 10,
+  "heartbeat_interval_seconds": 7,
+  "idle_threshold_seconds": 60,
+  "policy_version": "v1.0",
+  "policy_text_path": "./monitoring_policy.txt",
+  "local_screenshot_dir": "./screenshots",
+  "delete_after_upload": true
+}

@@ -1,0 +1,6 @@
+requests
+mss
+Pillow
+websockets
+pystray; sys_platform == "win32"
+pyinstaller
