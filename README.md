@@ -11,17 +11,13 @@
 
 ## 📽️ System Demo Video
 
-<video src="DEMO_VIDEO.mp4" controls="controls" style="max-width: 100%; border-radius: 10px; border: 1px solid #00ff66;"></video>
+[![Play Demo Video](https://img.shields.io/badge/▶️_Watch_Full_System_Demo-DEMO__VIDEO.mp4-00ff66?style=for-the-badge&logo=youtube&logoColor=black)](DEMO_VIDEO.mp4)
 
 > 💡 **System Walkthrough**: *Demonstrates real-time endpoint activity tracking, Web WhatsApp alert triggers, and live 20 FPS remote desktop control.*
 
 ---
 
-> 📌 **GitHub Free Video Hosting Tip**:
-> To stream this video directly on GitHub without committing the 79MB file to repository history:
-> 1. Open any GitHub Issue / PR comment box on your repo.
-> 2. Drag & drop `DEMO_VIDEO.mp4` into the text box (do **not** click submit).
-> 3. Copy the generated `https://user-images.githubusercontent.com/...` URL and paste it into the `src=""` attribute of the video tag above!
+> 📌 **Hosting Tip**: Once pushed to GitHub, you can drag & drop `DEMO_VIDEO.mp4` into any GitHub comment box to get a free `https://user-images.githubusercontent.com/...` video URL for direct web streaming.
 
 ---
 
